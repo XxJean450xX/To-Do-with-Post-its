@@ -1,6 +1,6 @@
 # To-Do with Post-its
 
-A clasic aplication of task list (to-do), but use **post-its** digitizable to write down we tasks.
+A classic aplication of task list (to-do), but use **post-its** digitizable to write down as tasks.
 
 ---
 
