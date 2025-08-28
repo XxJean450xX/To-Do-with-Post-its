@@ -1,35 +1,37 @@
 # To-Do with Post-its
 
-Una aplicación clásica de lista de tareas (to-do), pero utilizando **post-its** digitales para anotar tus tareas.
+A clasic aplication of task list (to-do), but use **post-its** digitizable to write down we tasks.
 
 ---
 
-##  Vista previa
+## Previous View
 
-Explora la versión beta en línea:
+Explore the beta version online:
 [https://nimble-ganache-67309a.netlify.app/](https://nimble-ganache-67309a.netlify.app/)
 
 ---
 
-##  Características
+##  Characterics
 
-- Crea **post-its** editables con un doble clic o desde la barra de herramientas.
-- **Mueve**, **edita** y **elimina** post-its con facilidad.
-- Todos los cambios se guardan en el navegador usando **localStorage**, así puedes cerrar la pestaña y seguir justo donde estabas.
-- Diseño minimalista y funcional, ideal para organizar tareas de forma rápida.
+- Make **post-its** editable with a double click or from the toolba.
+- **Move**, **Edit** and **Delete** post-its with ease.
+- All changes are saved in the navegator, using **localStorage**, this form you can close the window and continue you were.
+- Minimalist and functional design, ideal for organizing task quickly.
 
 ---
 
 ##  Tecnologías
 
-- **HTML** para la estructura y layout general.
-- **CSS** para el estilo visual y diseño responsive.
-- **JavaScript** para la lógica: creación, arrastre, edición, almacenamiento y recuperación de post-its.
+- **HTML** to structure and general layaut.
+- **CSS** to the visual style.
+- **JavaScript** for the logic: creation, move, edition, storage and backup of post-its.
 
 ---
 
-##  Cómo usarlo localmente
+##  How local use?
 
-1. Clona este repositorio:
+1. Clone this repository:
    ```bash
    git clone https://github.com/XxJean450xX/To-Do-with-Post-its.git
+
+NOTE: This proyect is suggest more changes, this is only beta version.
